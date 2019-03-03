@@ -1,4 +1,3 @@
-# CodingTimezz
 Contest reminder app
 Android App for competitive programming enthusiasts. 
 Shows a list of upcoming coding contests taking place in various popular competitive programming websites with the facility to add them to your google calendar.
